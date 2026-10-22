@@ -1,10 +1,9 @@
 # AI Phishing Detection System
+
+An AI-based cybersecurity system that uses machine learning to identify potentially malicious phishing URLs and distinguish them from legitimate URLs.
 ## Author
 
 **Suliman Abdulaziz**
-
-An AI-based cybersecurity system that uses machine learning to identify potentially malicious phishing URLs and distinguish them from legitimate URLs.
-
 ## Overview
 
 Phishing attacks use deceptive URLs and websites to trick users into revealing sensitive information. This project applies machine learning techniques to URL classification to help detect potential phishing threats.
